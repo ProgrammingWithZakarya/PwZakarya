@@ -1,0 +1,97 @@
+{
+	"navbarHeader": {
+		"home": "Home",
+		"portfolio": "Portfolio",
+		"about": "About me",
+		"services": "Services",
+		"skills": "Skills",
+		"contact": "Contact me",
+		"languages": "Languages",
+		"themes": "Themes"
+	},
+	"landing": {
+		"txt1": "I'm Zakarya Hassan Zadeh a FrontEnd Developer in Piranshahr",
+		"txt2": "I'm glad to see you here , dear friend 😍",
+		"txt3": "Stay with me ...",
+		"scroll": "scroll"
+	},
+	"portfolio": {
+		"header": "Portfolio",
+		"filter": "Filter",
+		"categories": {
+			"all": "All",
+			"personal": "Personal",
+			"company": "Company",
+			"store": "Store",
+			"panel-admin": "Panel Admin",
+			"template": "Template",
+			"production": "Production"
+		}
+	},
+	"aboutMe": {
+		"header": "About Me",
+		"title": "Do you want to know more about me?",
+		"txt1": "OK . I was born in a religious family in 2003, and they worked hard for me, and now, if possible, I want to repay all their efforts.",
+		"txt2": "With the hard work I have done so far, I was able to find my own way and bring myself to a Good Position",
+		"txt3": "",
+		"btnDownload": "Download My CV"
+	},
+	"myServices": {
+		"header": "My Services",
+		"ser1": {
+			"title": "",
+			"desc": ""
+		},
+		"ser2": {
+			"title": "",
+			"desc": ""
+		},
+		"ser3": {
+			"title": "",
+			"desc": ""
+		},
+		"ser4": {
+			"title": "",
+			"desc": ""
+		},
+		"ser5": {
+			"title": "",
+			"desc": ""
+		},
+		"ser6": {
+			"title": "",
+			"desc": ""
+		}
+	},
+	"skills": {
+		"hardSkill": "My Hard Skills",
+		"softSkill": "My Soft Skills"
+	},
+	"myTeam": {
+		"header": "My Current Team"
+	},
+	"articles": {
+		"header": "Articles",
+		"author": "By",
+		"minRead": "min read"
+	},
+	"contact": {
+		"header": "Get In Touch",
+		"name": "Name",
+		"email": "Email",
+		"content": "Write Your Message ...",
+		"phoneNum": "Phone",
+		"address": "Address",
+		"myAddress": "Khayyam neighborhood ,Piranshahr city , West Azarbaijan province Iran",
+		"btnSend": "Send Message",
+		"successMessage": "Your message was sent, thank you!"
+	},
+	"footer": {
+		"x": "X (Tweeter)",
+		"insta": "Instagram",
+		"linkedin": "LinkedIn",
+		"wb": "Whats App",
+		"tel": "Telegram",
+		"gitHub": "Git Hub"
+	}
+}
